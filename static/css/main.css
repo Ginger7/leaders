@@ -18005,72 +18005,72 @@ a.text-dark:hover, a.text-dark:focus {
 
 @font-face {
   font-family: 'TTFirs';
-  src: url("fonts/TTFirs-Regular.eot");
-  src: local("TT Firs Regular"), local("TTFirs-Regular"), url("fonts/TTFirs-Regular.eot?#iefix") format("embedded-opentype"), url("fonts/TTFirs-Regular.woff2") format("woff2"), url("fonts/TTFirs-Regular.woff") format("woff"), url("fonts/TTFirs-Regular.ttf") format("truetype");
+  src: url("../fonts/TTFirs-Regular.eot");
+  src: local("TT Firs Regular"), local("TTFirs-Regular"), url("../fonts/TTFirs-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/TTFirs-Regular.woff2") format("woff2"), url("../fonts/TTFirs-Regular.woff") format("woff"), url("../fonts/TTFirs-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'TTFirs';
-  src: url("fonts/TTFirs-Light.eot");
-  src: local("TT Firs Light"), local("TTFirs-Light"), url("fonts/TTFirs-Light.eot?#iefix") format("embedded-opentype"), url("fonts/TTFirs-Light.woff2") format("woff2"), url("fonts/TTFirs-Light.woff") format("woff"), url("fonts/TTFirs-Light.ttf") format("truetype");
+  src: url("../fonts/TTFirs-Light.eot");
+  src: local("TT Firs Light"), local("TTFirs-Light"), url("../fonts/TTFirs-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/TTFirs-Light.woff2") format("woff2"), url("../fonts/TTFirs-Light.woff") format("woff"), url("../fonts/TTFirs-Light.ttf") format("truetype");
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'TTFirs';
-  src: url("fonts/TTFirs-Medium.eot");
-  src: local("TT Firs Medium"), local("TTFirs-Medium"), url("fonts/TTFirs-Medium.eot?#iefix") format("embedded-opentype"), url("fonts/TTFirs-Medium.woff2") format("woff2"), url("fonts/TTFirs-Medium.woff") format("woff"), url("fonts/TTFirs-Medium.ttf") format("truetype");
+  src: url("../fonts/TTFirs-Medium.eot");
+  src: local("TT Firs Medium"), local("TTFirs-Medium"), url("../fonts/TTFirs-Medium.eot?#iefix") format("embedded-opentype"), url("../fonts/TTFirs-Medium.woff2") format("woff2"), url("../fonts/TTFirs-Medium.woff") format("woff"), url("../fonts/TTFirs-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'TTFirs';
-  src: url("fonts/TTFirs-Thin.eot");
-  src: local("TT Firs Thin"), local("TTFirs-Thin"), url("fonts/TTFirs-Thin.eot?#iefix") format("embedded-opentype"), url("fonts/TTFirs-Thin.woff2") format("woff2"), url("fonts/TTFirs-Thin.woff") format("woff"), url("fonts/TTFirs-Thin.ttf") format("truetype");
+  src: url("../fonts/TTFirs-Thin.eot");
+  src: local("TT Firs Thin"), local("TTFirs-Thin"), url("../fonts/TTFirs-Thin.eot?#iefix") format("embedded-opentype"), url("../fonts/TTFirs-Thin.woff2") format("woff2"), url("../fonts/TTFirs-Thin.woff") format("woff"), url("../fonts/TTFirs-Thin.ttf") format("truetype");
   font-weight: 100;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'TTFirs';
-  src: url("fonts/TTFirs-Bold.eot");
-  src: local("TT Firs Bold"), local("TTFirs-Bold"), url("fonts/TTFirs-Bold.eot?#iefix") format("embedded-opentype"), url("fonts/TTFirs-Bold.woff2") format("woff2"), url("fonts/TTFirs-Bold.woff") format("woff"), url("fonts/TTFirs-Bold.ttf") format("truetype");
+  src: url("../fonts/TTFirs-Bold.eot");
+  src: local("TT Firs Bold"), local("TTFirs-Bold"), url("../fonts/TTFirs-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/TTFirs-Bold.woff2") format("woff2"), url("../fonts/TTFirs-Bold.woff") format("woff"), url("../fonts/TTFirs-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'TTFirs';
-  src: url("fonts/TTFirs-Black.eot");
-  src: local("TT Firs Black"), local("TTFirs-Black"), url("fonts/TTFirs-Black.eot?#iefix") format("embedded-opentype"), url("fonts/TTFirs-Black.woff2") format("woff2"), url("fonts/TTFirs-Black.woff") format("woff"), url("fonts/TTFirs-Black.ttf") format("truetype");
+  src: url("../fonts/TTFirs-Black.eot");
+  src: local("TT Firs Black"), local("TTFirs-Black"), url("../fonts/TTFirs-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/TTFirs-Black.woff2") format("woff2"), url("../fonts/TTFirs-Black.woff") format("woff"), url("../fonts/TTFirs-Black.ttf") format("truetype");
   font-weight: 900;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'TTFirs';
-  src: url("fonts/TTFirs-ExtraLight.eot");
-  src: local("TT Firs ExtraLight"), local("TTFirs-ExtraLight"), url("fonts/TTFirs-ExtraLight.eot?#iefix") format("embedded-opentype"), url("fonts/TTFirs-ExtraLight.woff2") format("woff2"), url("fonts/TTFirs-ExtraLight.woff") format("woff"), url("fonts/TTFirs-ExtraLight.ttf") format("truetype");
+  src: url("../fonts/TTFirs-ExtraLight.eot");
+  src: local("TT Firs ExtraLight"), local("TTFirs-ExtraLight"), url("../fonts/TTFirs-ExtraLight.eot?#iefix") format("embedded-opentype"), url("../fonts/TTFirs-ExtraLight.woff2") format("woff2"), url("../fonts/TTFirs-ExtraLight.woff") format("woff"), url("../fonts/TTFirs-ExtraLight.ttf") format("truetype");
   font-weight: 200;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'TTFirs';
-  src: url("fonts/TTFirs-ExtraBold.eot");
-  src: local("TT Firs Extrabold"), local("TTFirs-ExtraBold"), url("fonts/TTFirs-ExtraBold.eot?#iefix") format("embedded-opentype"), url("fonts/TTFirs-ExtraBold.woff2") format("woff2"), url("fonts/TTFirs-ExtraBold.woff") format("woff"), url("fonts/TTFirs-ExtraBold.ttf") format("truetype");
+  src: url("../fonts/TTFirs-ExtraBold.eot");
+  src: local("TT Firs Extrabold"), local("TTFirs-ExtraBold"), url("../fonts/TTFirs-ExtraBold.eot?#iefix") format("embedded-opentype"), url("../fonts/TTFirs-ExtraBold.woff2") format("woff2"), url("../fonts/TTFirs-ExtraBold.woff") format("woff"), url("../fonts/TTFirs-ExtraBold.ttf") format("truetype");
   font-weight: 800;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'TTFirs';
-  src: url("fonts/TTFirs-Hairline.eot");
-  src: local("TT Firs Hairline"), local("TTFirs-Hairline"), url("fonts/TTFirs-Hairline.eot?#iefix") format("embedded-opentype"), url("fonts/TTFirs-Hairline.woff2") format("woff2"), url("fonts/TTFirs-Hairline.woff") format("woff"), url("fonts/TTFirs-Hairline.ttf") format("truetype");
+  src: url("../fonts/TTFirs-Hairline.eot");
+  src: local("TT Firs Hairline"), local("TTFirs-Hairline"), url("../fonts/TTFirs-Hairline.eot?#iefix") format("embedded-opentype"), url("../fonts/TTFirs-Hairline.woff2") format("woff2"), url("../fonts/TTFirs-Hairline.woff") format("woff"), url("../fonts/TTFirs-Hairline.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
@@ -20427,7 +20427,7 @@ button.swiper-pagination-bullet {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  background-image: url("img/general/bg-header.png");
+  background-image: url("../img/general/bg-header.png");
   z-index: 10;
 }
 
@@ -20578,7 +20578,7 @@ button.swiper-pagination-bullet {
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
-  background-image: url("img/general/bg-faq.png");
+  background-image: url("../img/general/bg-faq.png");
 }
 
 @media (min-width: 625px) {
